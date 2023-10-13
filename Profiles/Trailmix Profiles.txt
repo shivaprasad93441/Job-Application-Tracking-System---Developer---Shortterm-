@@ -1,1 +1,35 @@
+NAME-THUMMUTHUKKA SIVA PRASAD
+LEARNING TRACK-DEVELOPER
+EMAIL-shivaprasad93441@gmail.com
+TRAILHEAD PROFILE-https://www.salesforce.com/trailblazer/sivaprasadthummuthukka9848
+USER NAME(DEVLOPER ORG)-shivaprasad93441@gdcproject.com
+CONTACT-9346393441
 
+
+NAME-BATHALA DHANANJAYA
+LEARNING TRACK-DEVELOPER
+EMAIL-dhananjayabathala@gmail.com
+TRAILHEAD PROFILE-https://www.salesforce.com/trailblazer/bathaladhananjaya
+USER NAME(DEVLOPER ORG)-dhananjaya@gdcproject.com
+CONTACT-8919065927
+
+NAME-POOLASETTY SOMASEKHAR
+LEARNING TRACK-DEVELOPER
+EMAIL-somushekarpoolasetty@gmail.com
+TRAILHEAD PROFILE-https://www.salesforce.com/trailblazer/somasekharpoolasetty
+USER NAME(DEVLOPER ORG)-somushekar@gdcproject.com
+CONTACT-8520867041
+
+NAME-GALIGUTTA MARUTHI KUMAR REDDY
+LEARNING TRACK-DEVELOPER
+EMAIL-maruthireddy7702700@gmali.com
+TRAILHEAD PROFILE-https://www.salesforce.com/trailblazer/maruthikumarreddygaligutta8917
+USER NAME(DEVLOPER ORG)-maruthireddy@project.com
+CONTACT-7702700208
+
+NAME-REVURU CHENCHU BABI
+LEARNING TRACK-DEVELOPER
+EMAIL-babibujji6@gmail.com
+TRAILHEAD PROFILE-https://www.salesforce.com/trailblazer/chenchubabirevuru
+USER NAME(DEVLOPER ORG)-bobby@gdcproject.com
+CONTACT-7793926582
